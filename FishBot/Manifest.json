@@ -1,0 +1,10 @@
+{
+  "Name": "Fishbot",
+  "Author": "Cnork",
+  "Version": "1.0.0",
+  "Description": "Catches fish and treasures.",
+  "UniqueID": "Cnork.FishBot",
+  "EntryDll": "FishBot.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
